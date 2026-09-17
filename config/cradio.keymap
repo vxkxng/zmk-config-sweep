@@ -67,7 +67,7 @@
 
     //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
     //│ PGUP     │ HOME     │ PGDN     │ CAPS     │          │   │  ←       │  ↓       │  ↑       │  →       │  ;       │
-        &kp PG_UP   &kp HOME   &kp PG_DN   &caps_word  &trans       &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &kp SEMI
+        &kp PG_UP   &kp HOME   &kp PG_DN   &trans  &trans       &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &kp SEMI
 
     //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
     //│ CAPS     │  7       │  8       │  9       │  0       │   │          │          │          │          │          │
